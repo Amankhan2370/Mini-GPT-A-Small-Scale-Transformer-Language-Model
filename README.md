@@ -113,18 +113,3 @@ Specify your preferred open-source license here.
 ***
 
 This project is an open, hands-on resource for anyone aiming to understand and experiment with modern NLP architectures on their own terms – feedback and collaboration welcome!
-
-***
-
-**For best results, add this to your `README.md`, update license and contact/credit sections as needed, and link to your code/demo.**
-
-[1](https://github.com/othneildrew/Best-README-Template)
-[2](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-[3](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[4](https://github.com/mhucka/readmine)
-[5](https://github.com/jehna/readme-best-practices)
-[6](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-[7](https://www.makeareadme.com)
-[8](https://www.reddit.com/r/github/comments/uulygm/what_are_some_really_nice_github_profile_readmes/)
-[9](https://www.readme-templates.com)
-[10](https://github.com/banesullivan/README)
