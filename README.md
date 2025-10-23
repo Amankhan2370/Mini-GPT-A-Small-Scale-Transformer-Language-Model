@@ -5,6 +5,7 @@ A compact, educational implementation of a GPT-style transformer trained from sc
 ***
 
 ### Table of Contents
+
 - Overview
 - Model Architecture
 - Dataset
