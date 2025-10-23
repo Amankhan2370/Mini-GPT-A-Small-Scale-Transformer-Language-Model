@@ -75,7 +75,7 @@ Performance metrics demonstrate robust learning and generalization.
 | 10    | 6.10       | 6.54     | 446              | 693            |
 
 **Visuals:**  
-<img src="training_metrics.jpg" width="750">
+<img ![Training Metrics](training_metrics.png)>
 
 - Loss and perplexity curves show stable training, absence of overfitting, and strong model improvement.
 
