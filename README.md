@@ -1,7 +1,3 @@
-To showcase your work as a standalone project (not an assignment), here’s a polished README format. The focus is on your initiative, skills, and the solutions you explored. The content structure aligns with best GitHub project practices, presenting your mini-GPT build as your signature engineering portfolio piece.
-
-***
-
 # Mini-GPT: Small-Scale Transformer Language Model
 
 A compact, educational implementation of a GPT-style transformer trained from scratch in PyTorch – designed to demystify the core mechanics of large-scale language models and experiment with foundational NLP architecture on accessible hardware.
